@@ -1,7 +1,7 @@
 # Product-Sales-Forecasting-using-Time-Series-Analysis-
 
 
-## Brief Summary
+## Brief Summary-
 •Conducted ADFuller test for data stationarity, performed Data Decomposition to observe level, trend, seasonality & residue
 
 •Implemented Seasonal ARIMA, Holt’s winter, and Prophet models on product sales dataset for Forecasting future sales 
